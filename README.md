@@ -53,3 +53,9 @@
 <img src="https://raw.githubusercontent.com/Gian/Gian/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/2d/ab/4e/2dab4ead7b494dda81a49b80f4aa1295.gif"  />
+</div>
+
+###
