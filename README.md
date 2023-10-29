@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/564x/11/2c/e2/112ce265cfd07283bdc4f92f0800e60b.jpg"  />
+</div>
+
+###
+
 <h2 align="left">Hi 👋! My name is Gian Daziel Pon and I'm a Student, from DFCAMCLP</h2>
 
 ###
@@ -9,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif"  />
 
 ###
 
@@ -47,8 +53,3 @@
 <img src="https://raw.githubusercontent.com/Gian/Gian/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<!---
-Ziel27/Ziel27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
