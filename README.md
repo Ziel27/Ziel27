@@ -30,7 +30,7 @@ MongoDB
 
 ## 📈 GitHub Stats
 
-![Gian's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=radical)
+![Gian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ziel27&show_icons=true&count_private=true&theme=radical)
 
 ---
 
