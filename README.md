@@ -28,12 +28,6 @@ MongoDB
 
 ---
 
-## 📈 GitHub Stats
-
-![Gian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ziel27&show_icons=true&count_private=true&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/gian-daziel-pon-982b37296)  
