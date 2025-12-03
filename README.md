@@ -20,7 +20,7 @@ I’m a passionate software developer exploring web technologies, cloud computin
 MongoDB 
 
 ### **Cloud & DevOps**
-- AWS EC2 | S3 | CloudWatch
+- AWS
 - Git | GitHub Actions 
 
 ### **Other Tools**
