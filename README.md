@@ -9,7 +9,7 @@ I’m a passionate software developer exploring web technologies, cloud computin
 ## Skills
 
 ### **Frontend**
-- HTML5 | CSS3 | JavaScript | TypeScript  
+- HTML5 | CSS3 | JavaScript 
 - React.js | Tailwind CSS | Vercel Deployment | Render Deployment 
 
 ### **Backend**
