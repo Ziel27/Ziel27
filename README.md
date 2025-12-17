@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Gian Daziel Pon
+# Hi, I’m Gian Daziel Pon
 
-### 💻 AI Full-Stack Developer | Cloud Enthusiast | AIOps Learner
+### AI Full-Stack Developer | Cloud Enthusiast | AIOps Learner
 
 I’m a passionate software developer exploring web technologies, cloud computing, and automation. I enjoy building scalable applications, learning new technologies, and solving real-world problems.
 
 ---
 
-## 🚀 Skills
+## Skills
 
 ### **Frontend**
 - HTML5 | CSS3 | JavaScript | TypeScript  
@@ -28,7 +28,7 @@ MongoDB
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/gian-daziel-pon-982b37296)  
 - [Portfolio](https://giandazielpon.online)  
